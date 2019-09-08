@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+hello potato
+I am a tomato.
